@@ -36,7 +36,7 @@ The PhonePe Payment Insights Dashboard is an interactive business intelligence p
 - Payment status analysis helps monitor transaction success and failure trends.
 
 📷 Dashboard Preview
-![PhonePe Payment Insights Dashboard](PhonePe_Dashboard.png)
+![PhonePe Payment Insights Dashboard](phonepay_dashboard.jpg)
 
 🚀 How to Use
 1. Clone or download this repository.
