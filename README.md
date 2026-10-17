@@ -38,17 +38,6 @@ The PhonePe Payment Insights Dashboard is an interactive business intelligence p
 📷 Dashboard Preview
 ![PhonePe Payment Insights Dashboard](PhonePe_Dashboard.png)
 
-> **Note:** Upload your dashboard screenshot to the repository using the filename `PhonePe_Dashboard.png`, or update the image path to match your uploaded file.
-
-📂 Project Structure
-
-PhonePe-Payment-Insights-Dashboard/
-│
-├── README.md
-├── PhonePe_Dashboard.png
-└── PhonePe_Dashboard.pbix
-
-
 🚀 How to Use
 1. Clone or download this repository.
 2. Download and install Microsoft Power BI Desktop.
